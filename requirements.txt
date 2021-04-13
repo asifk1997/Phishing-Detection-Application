@@ -13,9 +13,6 @@ catalogue==1.0.0
 certifi==2020.12.5
 cffi
 chardet
-conda==4.9.2
-conda-build==3.21.4
-conda-package-handling 
 cryptography 
 cycler==0.10.0
 cymem==2.0.5
