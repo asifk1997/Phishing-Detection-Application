@@ -26,9 +26,6 @@ fastprogress==1.0.0
 filelock 
 flatbuffers==1.12
 gast==0.3.3
-glob2
-google-auth==1.28.0
-google-auth-oauthlib==0.4.4testpath==0.4.4
 thinc==7.4.5
 threadpoolctl==2.1.0
 tqdm 
