@@ -40,7 +40,6 @@ idna
 IPy==1.1
 ipykernel==5.5.3
 ipython 
-ipython-genutils/work
 ipywidgets==7.6.3
 jedi==0.17.0
 Jinja2
