@@ -4,7 +4,6 @@ argon2-cffi==20.1.0
 astunparse==1.6.3
 async-generator==1.10
 attrs==20.3.0
-backcal
 beautifulsoup4
 bleach==3.3.0
 blis==0.7.4
