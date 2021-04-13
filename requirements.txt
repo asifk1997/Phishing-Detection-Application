@@ -28,7 +28,12 @@ flatbuffers==1.12
 gast==0.3.3
 glob2
 google-auth==1.28.0
-google-auth-oauthlib==0.4.4
+google-auth-oauthlib==0.4.4testpath==0.4.4
+thinc==7.4.5
+threadpoolctl==2.1.0
+tqdm 
+traitlets
+typing-extensions 
 google-pasta==0.2.0
 grpcio==1.32.0
 h5py==2.10.0
@@ -122,11 +127,6 @@ terminado==0.9.4
 testpath==0.4.4
 thinc==7.4.5
 threadpoolctl==2.1.0
-torch==1.7.1
-torchelastic==0.2.2
-torchtext==0.9.1
-torchvision==0.8.2
-tornado==6.1
 tqdm 
 traitlets
 typing-extensions 
